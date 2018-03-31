@@ -1,1 +1,1 @@
-# scicomp
+# SCICOM
